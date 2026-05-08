@@ -41,7 +41,7 @@ Desenvolver um dashboard executivo para monitoramento de vendas e performance co
 
 ## Dashboard
 
-Adicione aqui a imagem final do dashboard.
+![Dashboard](Dashboard.png)
 
 ## Principais insights
 
